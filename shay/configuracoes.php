@@ -21,7 +21,6 @@
 		<a href="historico.php">Histórico</a>
         <a href="clientes.php">Clientes</a>
         <a href="configuracoes.php">Configurações</a>
-        <a href="trocarsenha.php">Trocar Senha</a>
         <a href="php/logout.php">Sair</a>
 	</header>
     <main>
